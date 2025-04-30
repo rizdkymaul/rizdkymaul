@@ -88,12 +88,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rizdkymaul/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/rizdkymaul">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rizdkymaul&count=4&unique=true" alt="Spotify recently played"  />
   </a>
